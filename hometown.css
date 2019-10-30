@@ -1,0 +1,118 @@
+#top-title {
+    text-align: right;
+    margin-right: 100px;
+    padding: 5px;
+    color: #050505;
+}
+.color {
+    background-color: rgb(32, 221, 127);
+}
+.categories {
+    font-weight: bold;
+    display: inline;
+    margin: 40px;
+    text-decoration: underline;
+    font-size: 20px;
+    color: #050505;
+    transition: width 2s, height 4s;
+    
+}
+.kohkong-text {
+    margin: 40px;
+    margin-right: 100px;
+    width: 80%;
+    padding-left: 100px;
+    color: #050505;
+    
+}
+#kohkong1  {
+    margin-bottom: 20%;
+    margin-left: 8%;
+}
+#general {
+    margin-left: 2.5%;
+    color: #050505;
+}
+#general-p {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 0%;
+    color: #050505;
+}
+#div1 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#tourist {
+    margin-left: 2.5%;
+}
+#kohsdach {
+    margin-bottom: 20%;
+    margin-left: 8%;
+}
+#kohsdach-p {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 0%;
+    color: #050505;
+}
+#div2 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#chiphat {
+    margin-bottom: 20%;
+    margin-left: 8%;
+}
+#chiphat-p {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 0%;
+    color: #050505;
+}
+#div3 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#tatai {
+    margin-bottom: 20%;
+    margin-left: 8%;
+}
+#tatai-p {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 0%;
+    color: #050505;
+}
+#div4 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#khunchhang {
+    margin-bottom: 20%;
+    margin-left: 8%;
+}
+#khunchhang-p {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 0%;
+    color: #050505;
+}
+#div5 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#kohsne1 {
+    margin-bottom: 20%;
+    margin-left: 8%;
+}
+#kohsne-p {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 0%;
+    color: #050505;
+}
+#div6 {
+    display: grid;
+    grid-template-columns: auto auto;
+}

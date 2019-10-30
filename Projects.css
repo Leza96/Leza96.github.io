@@ -1,0 +1,82 @@
+#top-title {
+    text-align: right;
+    margin-right: 100px;
+    padding: 5px;
+    color: #050505;
+}
+.color {
+    background-color: rgb(32, 221, 127);
+}
+.categories {
+    font-weight: bold;
+    display: inline;
+    margin: 40px;
+    text-decoration: underline;
+    font-size: 20px;
+    color: #050505;
+}
+.div1 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#project-program {
+    padding: 20px;
+    padding-left: 40px;
+    text-align: center;
+    color: #050505;    
+}
+#project-p {
+    margin: 40px;
+    margin-right: 100px;
+    width: 70%;
+    padding-left: 100px;
+    color: #050505;
+}
+.div  {
+    border-radius: 70%;
+    margin-top: 1px;
+    margin-right: 40px;
+}
+#exploration1 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#TF {
+    margin-bottom: 20%;
+    margin-left: 8%;
+}
+#TF-p {
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 0%;
+    color: #050505;
+}
+#exploration2 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#outdoor-p {
+    width: 60%;
+    margin-left: 4%;
+    margin-top: 0%;
+    color: #050505;
+}
+#outdoor {
+    margin-bottom: 20%;
+    margin-right: 10%;
+    rotate: 90deg;
+}
+#exploration3 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#indigenous {
+    margin-bottom: 20%;
+    margin-left: 8%;
+}
+#indigenous-p {
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 0%;
+    color: #050505;
+}
